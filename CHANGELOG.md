@@ -5,4 +5,4 @@
 
 ### Feature Updates
 
-* **project:** 🎉 initial commit ([26cbdcc](https://github.com/SamrithaS/js-bottomsheet/commit/26cbdcc7b46ea47c69617571f5110ee1c8603f87))
+* **project:** 🎉 initial commit ([26cbdcc](https://github.com/timelessco/browser-js-website-template/commit/26cbdcc7b46ea47c69617571f5110ee1c8603f87))
