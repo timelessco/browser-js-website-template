@@ -13,7 +13,6 @@
   },
   "author": "Timeless <hello@timeless.co> (https://timeless.co/)",
   "license": "MIT",
-  "private": true,
   "keywords": [
     "js",
     "website",
