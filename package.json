@@ -41,7 +41,7 @@
     "test": "echo \"no test specified\" && exit 0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.21.0",
     "@babel/eslint-parser": "^7.19.1",
     "@babel/preset-env": "^7.20.2",
     "@commitlint/cli": "^17.4.4",
@@ -61,7 +61,7 @@
     "prettier": "^2.8.4",
     "prettier-plugin-pkg": "^0.17.1",
     "release-it": "^15.6.0",
-    "stylelint": "^15.1.0",
+    "stylelint": "^15.2.0",
     "stylelint-config-prettier": "^9.0.5",
     "stylelint-config-standard": "^30.0.1",
     "vite": "^4.1.3",
